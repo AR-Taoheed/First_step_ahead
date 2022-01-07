@@ -1,8 +1,8 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-Created The Template
+# Created The Template
 
-## Cloud Research
+### Cloud Research
 
 I copied the 100DaysOfCloud template to start strong tomorrow
 
